@@ -13,7 +13,7 @@ http://bit.ly/2FfdXUa
 Using the extension on the Desktop App or other browsers is possible, but since Figma doesn't support plugins at the moment, the process has some limitations (See Important Notes Below).
 
 ### How to load a FigJet on Desktop App (Mac/Win) and other Browsers
-1. Download the plugin here: figma-plugin-latest.js
+1. Download the plugin here: [figma-plugin-latest.js](fidjet-panel-latest.js)
 
 2. Open it on your favourite editor and copy/paste the code. 
 
