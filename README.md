@@ -1,6 +1,8 @@
 # Figma Plugins Panel
 A collection of plugins (aka Figjets) made for Figma App via a Chrome Extension app.
 
+![alt text](https://raw.githubusercontent.com/PaperTiger/figma-plugins/master/cover.jpg?token=AHoqgaAnAQoQtEygmvWrsvbW781LSID-ks5apoIFwA%3D%3D "Figma Plugin Panel")
+
 ## Install the plugin on Chrome 64+ (Recommended)
 - Download and Install the Chrome Extension here:
 http://bit.ly/2FfdXUa
