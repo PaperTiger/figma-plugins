@@ -1,5 +1,5 @@
 # Figma Plugins Panel — v.1.0.4
-A collection of plugins (aka Figjets) made for Figma App via a Chrome Extension app.
+A collection of plugins (aka Figjets) made for Figma App via a Chrome Extension app. It support Figma Desktop App as well, more below.
 
 ![alt text](https://raw.githubusercontent.com/PaperTiger/figma-plugins/master/cover.jpg?token=AHoqgaAnAQoQtEygmvWrsvbW781LSID-ks5apoIFwA%3D%3D "Figma Plugin Panel")
 
