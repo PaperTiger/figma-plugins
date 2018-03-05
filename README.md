@@ -13,7 +13,6 @@ http://bit.ly/2FfdXUa
 Using the extension on the Desktop App or other browsers is possible, but since Figma doesn't support plugins at the moment, the process has some limitations (See Important Notes Below).
 
 ### Usage on Desktop App (Mac/Win) and other Browsers
-```
 
 1. Download the plugin here: [figma-plugin-latest.js](fidjet-panel-latest.js)
 
@@ -24,8 +23,6 @@ Using the extension on the Desktop App or other browsers is possible, but since 
 4. Create a snippet using the Snippet feature available on the Sources Panel. (Scrathpad in Firefox)
 
 5. Run the Snippet. You should see the FigJet Panel appearing the top-right portion of the toolbar.
-
-```
 
 **Important Note** On the Desktop App be sure to load the Developer Tools that targets the Figma App instead of the one which toggles the Dev Inspector for the Electron Window. (See Video Guides below)
 
