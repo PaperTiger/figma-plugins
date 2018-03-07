@@ -1,4 +1,4 @@
-# Figma Plugins Panel — v.1.0.4
+# Figma Plugins Panel — v.1.0.5
 A collection of plugins (aka Figjets) made for Figma App.
 
 ![alt text](https://raw.githubusercontent.com/PaperTiger/figma-plugins/master/cover.jpg?token=AHoqgaAnAQoQtEygmvWrsvbW781LSID-ks5apoIFwA%3D%3D "Figma Plugin Panel")
