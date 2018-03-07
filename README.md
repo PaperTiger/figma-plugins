@@ -14,7 +14,7 @@ Using the extension on the Desktop App or other browsers is possible, but since 
 
 ### Usage on Desktop App (Mac/Win) and other Browsers
 
-1. Download the plugin here: [figma-plugin-latest.js](fidjet-panel-latest.js)
+1. Download the plugin here: [figmaFigjetsPanel-latest.js](figmaFigjetsPanel-latest.js)
 
 2. Open it on your favourite editor and copy/paste the code. 
 
