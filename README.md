@@ -58,7 +58,7 @@ Easy peasy lemon squeezy. Look for the ```Plugin Panel Button``` on the top-righ
 
 ## Faqs and Troubleshooting
 
-### Desktop App]
+### Desktop App
 #### I'm getting the error 'Figma is damaged and can't be opened'.
 The app is built on top of the Figma Beta Desktop App, which requires some quick configuration on some Macs.
 
