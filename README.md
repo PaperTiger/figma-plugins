@@ -3,7 +3,33 @@ The unofficial plugins panel for Figma App.
 
 ![alt text](https://raw.githubusercontent.com/PaperTiger/figma-plugins/master/cover.jpg?token=AHoqgaAnAQoQtEygmvWrsvbW781LSID-ks5apoIFwA%3D%3D "Figma Plugin Panel Cover")
 
-## How to Use the Panel
+---
+
+## New in this version:
+#### 2.0 
+
+**General**
+- [NEW] Completely revamped Plugin Panel now using React
+- [NEW] We do have now full support for the Desktop Figma App on Mac, no more workaround required. Panel is now available in the app natively. Download the client below.
+- [NEW] Added a new Firefox browser extension. Download below.
+- [NEW] PDF Export Plugin, Credits (https://figma-pdf.gweltaz-calori.com/)  
+
+**The Dark UI Plugin**
+- [NEW] Better and improved color palette
+- [NEW] Now the Canvas's Background color will change when the plugin is activated
+
+- [IMPROVEMENT] Better browser support
+- [FIX] A LOT of bug fixes
+
+#### 1.0.5
+- [IMPROVEMENT] Bug Fixes, Better browsers support
+
+#### 1.0
+- Initial Release
+
+---
+
+## Installation
 
 ### Figma Desktop App (Mac Only) - 'Download Required'
 - Download and Install the Figma Desktop App Client below
@@ -17,6 +43,11 @@ http://bit.ly/2FfdXUa
 ### Install the plugin on Firefox 61+
 - Download and Install the Firefox Extension here:
 https://mzl.la/2L6Kd2N
+
+---
+
+## How to Use the Panel
+Easy peasy lemon squeezy. Look for the ```Plugin Panel Button``` on the top-right of Figma Toolbar
 
 ---
 
