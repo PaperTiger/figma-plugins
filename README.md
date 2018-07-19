@@ -71,12 +71,16 @@ The Plugin Button is available on the ```File Browser and Project Editor``` only
 #### Is there any Desktop App Client for Windows?
 - Unfortunately we don't support an integration of the Plugins Panel on Win at the moment. If you're developer interested in porting the panel on Win, feel free to get in touch with us at team@papertiger.com
 
+--
+
 ### Dark Theme Plugin
 #### The rulers' color is still white.
 At the moment there's no way to change the colors / theme of the rulers on Figma. 
 
 #### Some UI elements look unstyled.
 We tried our best to make sure that any element get the correct styling, but due to the complexilty of the app and all the possible scenarios, some components may fall behind. Feel free to get in touch with us by sending a screenshot and browser/system specs at team@papertiger.com
+
+--
 
 ### Generate PDF Plugin
 #### I'm getting the error 'The file key is invalid'
