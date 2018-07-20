@@ -21,7 +21,7 @@ The unofficial plugins panel for Figma App.
 
 **Dark UI Plugin**
 - [NEW] Better and improved color palette  
-- [NEW] Now the Canvas's Background color will change when the plugin is activated  
+- [NEW] Now the File's Background color will change when the plugin is activated and the Canvas selected  
 - [IMPROVEMENT] Better browser support  
 - [FIX] A lot of bug fixes 
 
