@@ -15,8 +15,8 @@ The unofficial plugins panel for Figma App.
 
 **General**
 - [NEW] Completely revamped Plugin Panel now using React
-- [NEW] Panel is now available natively on the Desktop Figma App on Mac. [Download the client below](#installation).
-- [NEW] Added a new extension for Firefox. [Download the extension](#installation).
+- [NEW] Panel is now available natively on the Desktop Figma App on Mac. [Download the client below](#download-and-installation).
+- [NEW] Added a new extension for Firefox. [Download the extension](#download-and-installation).
 - [NEW] Added a PDF Export Plugin, Credits (https://figma-pdf.gweltaz-calori.com/)  
 
 **Dark UI Plugin**
