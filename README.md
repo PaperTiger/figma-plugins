@@ -79,7 +79,7 @@ The Plugin Button is available on the ```File Browser``` and the ```Editor``` to
 At the moment there's no way to change the colors / theme of the rulers on Figma. 
 
 #### Some UI elements look unstyled.
-If you spot something weird on the UI feel free to shot us a screenshot at team@papertiger.com
+If you spot something weird on the UI feel free to shoot us a screenshot at team@papertiger.com
 
 --
 
@@ -89,4 +89,4 @@ Make sure to turn on ```Public Access``` on your file by clicking on the ```Shar
 
 ---
 
-## For any other issue or question send us a mail at team@papertiger.com
+## For any other issue or question, send us an email at team@papertiger.com
