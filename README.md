@@ -15,9 +15,9 @@ The unofficial plugins panel for Figma App.
 
 **General**
 - [NEW] Completely revamped Plugin Panel now using React
-- [NEW] We do have now full support for the Desktop Figma App on Mac, no more workaround required. Panel is now available in the app natively. [Download the client below](#installation).
-- [NEW] Added a new Firefox browser extension. [Download the extension](#installation).
-- [NEW] PDF Export Plugin, Credits (https://figma-pdf.gweltaz-calori.com/)  
+- [NEW] Panel is now available natively on the Desktop Figma App on Mac. [Download the client below](#installation).
+- [NEW] Added a new extension for Firefox. [Download the extension](#installation).
+- [NEW] Added a PDF Export Plugin, Credits (https://figma-pdf.gweltaz-calori.com/)  
 
 **The Dark UI Plugin**
 - [NEW] Better and improved color palette  
@@ -52,7 +52,7 @@ https://mzl.la/2L6Kd2N
 ---
 
 ## How to Use the Panel
-Easy peasy lemon squeezy. Look for the ```Plugin Panel Button``` on the top-right of Figma Toolbar
+Look for the ```Plugin Panel Button``` on the toolbar.
 
 ![alt text](https://raw.githubusercontent.com/PaperTiger/figma-plugins/master/panel-preview.png "Figma Plugin Panel Preview")
 ---
@@ -61,16 +61,16 @@ Easy peasy lemon squeezy. Look for the ```Plugin Panel Button``` on the top-righ
 
 ### Desktop App
 #### I'm getting the error 'Figma is damaged and can't be opened'.
-The app is built on top of the Figma Beta Desktop App, which requires some quick configuration on some Macs.
+The app is built on top of the Figma Beta Desktop App, which might require some quick configuration.
 
-1. Open Terminal then type: ```sudo spctl --master-disable```, press Enter then add your system password to Confirm
-2. Go to ```System Preferences > Security and Privacy```, then make sure that the option ```Anywhere``` is selected on the ```Allow apps downloaded from:``` section.
+1. Launch this Terminal command: ```sudo spctl --master-disable```
+2. Go to ```System Preferences > Security and Privacy```, then select ```Anywhere``` from the ```Allow apps downloaded from:``` section.
 
 #### I can't find the plugin Icon on the Toolbar.
-The Plugin Button is available on the ```File Browser and Project Editor``` only. If the button doesn't show up, try to close and restart the app. 
+The Plugin Button is available on only the ```File Browser Tab and the Editor```. If the button doesn't show up, try to close and restart the app. 
 
 #### Is there any Desktop App Client for Windows?
-- Unfortunately we don't support an integration of the Plugins Panel on Win at the moment. If you're developer interested in porting the panel on Win, feel free to get in touch with us at team@papertiger.com
+- We don't support a of the Plugins Panel on Windows at the moment. If you're developer interested in porting the panel on Win, feel free to get in touch with us at team@papertiger.com
 
 --
 
@@ -79,13 +79,13 @@ The Plugin Button is available on the ```File Browser and Project Editor``` only
 At the moment there's no way to change the colors / theme of the rulers on Figma. 
 
 #### Some UI elements look unstyled.
-We tried our best to make sure that any element get the correct styling, but due to the complexilty of the app and all the possible scenarios, some components may fall behind. Feel free to get in touch with us by sending a screenshot and browser/system specs at team@papertiger.com
+We tried our best to make sure that any element get the correct styling, because of the complexilty of the app and all its possible scenarios, some components may needs some tweaks. If you spot something feel free to shot us a screenshot at team@papertiger.com
 
 --
 
 ### Generate PDF Plugin
 #### I'm getting the error 'The file key is invalid'
-Make sure to turn on ```Public Access``` on the project link by clicking on the ```Share Button``` then ```Enable link access``` in Figma.
+Make sure to turn on ```Public Access``` on your file by clicking on the ```Share Button``` then ```Enable link access```
 
 ---
 
