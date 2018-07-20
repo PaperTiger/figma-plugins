@@ -57,17 +57,17 @@ Look for the ```Plugin Panel Button``` on the toolbar.
 ## Faqs and Troubleshooting
 
 ### Desktop App
-#### I'm getting the error 'Figma is damaged and can't be opened'.
-The app is built on top of the Figma Beta Desktop App, which might require some quick configuration.
+#### I'm getting the error 'Figma is damaged and can't be opened' when I launch the Figma Desktop App.
+To solve this issue follow those steps:
 
 1. Launch this Terminal command: ```sudo spctl --master-disable```
 2. Go to ```System Preferences > Security and Privacy```, then select ```Anywhere``` from the ```Allow apps downloaded from:``` section.
 
-#### I can't find the plugin Icon on the Toolbar.
-The Plugin Button is available on only the ```File Browser Tab and the Editor```. If the button doesn't show up, try to close and restart the app. 
+#### I can't find the Plugin Icon.
+The Plugin Button is available on the ```File Browser``` and the ```Editor``` toolbars. If the button doesn't show up, try to close and restart either the app or the browser. If problems persist, send us a email.
 
 #### Is there any Desktop App Client for Windows?
-- We don't support a of the Plugins Panel on Windows at the moment. If you're developer interested in porting the panel on Win, feel free to get in touch with us at team@papertiger.com
+- We don't support a of the Plugins Panel on Windows at the moment. If you're interested making a port for Win, get in touch with us at team@papertiger.com
 
 --
 
@@ -76,7 +76,7 @@ The Plugin Button is available on only the ```File Browser Tab and the Editor```
 At the moment there's no way to change the colors / theme of the rulers on Figma. 
 
 #### Some UI elements look unstyled.
-We tried our best to make sure that any element get the correct styling, because of the complexilty of the app and all its possible scenarios, some components may needs some tweaks. If you spot something feel free to shot us a screenshot at team@papertiger.com
+If you spot something weird on the UI feel free to shot us a screenshot at team@papertiger.com
 
 --
 
