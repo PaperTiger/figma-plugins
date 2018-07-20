@@ -19,7 +19,7 @@ The unofficial plugins panel for Figma App.
 - [NEW] Added a new extension for Firefox. [Download the extension](#installation).
 - [NEW] Added a PDF Export Plugin, Credits (https://figma-pdf.gweltaz-calori.com/)  
 
-**The Dark UI Plugin**
+**Dark UI Plugin**
 - [NEW] Better and improved color palette  
 - [NEW] Now the Canvas's Background color will change when the plugin is activated  
 - [IMPROVEMENT] Better browser support  
