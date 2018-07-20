@@ -40,10 +40,10 @@ The unofficial plugins panel for Figma App.
 
 [**How to solve 'Figma is Damaged can't be opened' alert on Mac.**](#faqs-and-troubleshooting)
 
-### Chrome 64+ - Extension
+### Chrome, Mac/Win - Extension
 http://bit.ly/2FfdXUa
 
-### Firefox 61+ - Add-on
+### Firefox, Mac/Win - Add-on
 https://mzl.la/2L6Kd2N
 
 ---
