@@ -35,18 +35,15 @@ The unofficial plugins panel for Figma App.
 
 ## Installation
 
-### Figma Desktop App (Mac Only) - 'Download Required'
-- Download and Install the Figma Desktop App Client below
-[Figma Desktop App w/ Plugin Panel](figma-app-latest.zip)
+### Desktop App, Mac - (Download Required)
+[Figma App Latest](figma-app-latest.zip)
 
 [**How to solve 'Figma is Damaged can't be opened' alert on Mac.**](#faqs-and-troubleshooting)
 
-### Install the plugin on Chrome 64+
-- Download and Install the Chrome Extension here:
+### Chrome 64+ - Extension
 http://bit.ly/2FfdXUa
 
-### Install the plugin on Firefox 61+
-- Download and Install the Firefox Extension here:
+### Firefox 61+ - Add-on
 https://mzl.la/2L6Kd2N
 
 ---
