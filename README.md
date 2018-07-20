@@ -36,7 +36,7 @@ The unofficial plugins panel for Figma App.
 ## Download and Installation
 
 ### Desktop App, Mac - (Download Required)
-In order to use the Plugin Panel on the desktop mac app, you'll need to download and replace your current Figma app with the client below.
+In order to use the Plugin Panel on the desktop mac app, you'll need to download and replace your current Figma app with the version linked here.   
 [Download Figma App Desktop](figma-app-latest.zip)
 
 [**How to solve 'Figma is Damaged can't be opened' alert on Mac.**](#faqs-and-troubleshooting)
