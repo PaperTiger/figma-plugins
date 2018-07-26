@@ -11,6 +11,13 @@ The unofficial plugins panel for Figma App.
 ---
 
 ## New in this version
+#### 2.0.1 
+**Dark UI Plugin**
+- Fix color issue on Comments Panel
+- Improved Support for the Emoji Panel
+- Fix SVGs color bug on Windows
+- Improved color for texts on selected input field
+
 #### 2.0 
 
 **General**
