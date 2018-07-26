@@ -1,4 +1,4 @@
-# Figma Plugins Panel — v.2.0
+# Figma Plugins Panel — v.2.0.1
 The unofficial plugins panel for Figma App.  
 
 [Changelog](#new-in-this-version)  
