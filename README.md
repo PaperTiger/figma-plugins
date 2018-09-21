@@ -1,4 +1,4 @@
-# Figma Plugins Panel — v.2.0.1
+# Figma Plugins Panel — v.2.0.2
 The unofficial plugins panel for Figma App.  
 
 [Changelog](#new-in-this-version)  
@@ -10,7 +10,15 @@ The unofficial plugins panel for Figma App.
 
 ---
 
-## New in this version
+## Changelog
+
+#### 2.0.2
+**General**
+- Update Mac Desktop Client to the test Figma release (63)
+  [Download Figma Desktop App (Mac)](https://www.dropbox.com/s/16a3rquisr112ap/figma-app-latest.zip?dl=0)
+
+
+
 #### 2.0.1 
 **Dark UI Plugin**
 - Fix color issue on Comments Panel
