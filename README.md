@@ -1,3 +1,8 @@
+# This project has been ported into FigmaPlus. Please check this repository instead.
+https://github.com/figma-plus/figma-plus
+
+---
+
 # Figma Plugins Panel — v.2.0.2
 The unofficial plugins panel for Figma App.  
 
@@ -45,24 +50,6 @@ The unofficial plugins panel for Figma App.
 
 #### 1.0
 - Initial Release
-
----
-
-## Download and Installation
-
-### Desktop App, Mac - (Download Required)
-In order to use the Plugin Panel on the desktop mac app, you'll need to download and replace your current Figma app with the version linked here.   
-[Download Figma Desktop App (Mac)](https://www.dropbox.com/s/16a3rquisr112ap/figma-app-latest.zip?dl=0)
-
-[**How to solve 'Figma is Damaged can't be opened' alert on Mac.**](#faqs-and-troubleshooting)
-
-### Chrome, Mac/Win - Extension
-Get the Extension on the Chrome Store
-http://bit.ly/2FfdXUa
-
-### Firefox, Mac/Win - Add-on
-Get the Add-On on the Firefox Store
-https://mzl.la/2L6Kd2N
 
 ---
 
